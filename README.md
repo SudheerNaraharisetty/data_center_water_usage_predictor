@@ -1,7 +1,7 @@
 # **AI-Data Centers Water Usage Predictor 🌊💡**
 
 ![Water Usage Predictor](https://img.shields.io/badge/Status-Completed-brightgreen)  
-📌 **Author:** [Sudheer Naraharisetty](https://github.com/SudheerNaraharisetty)  
+📌 **Author:** [Sai Sudheer Naraharisetty](https://github.com/SudheerNaraharisetty)  
 📌 **License:** MIT  
 📌 **Project Type:** Embedded Analytics, ESG, Predictive Modeling, Data Science  
 📌 **Technologies Used:** Python, XGBoost, Streamlit, Tableau, Pandas, Matplotlib, Seaborn  
